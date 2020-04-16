@@ -1,1 +1,1 @@
-# Childhood Autistic Spectrum Disorder Screening using Machine Learning
+# Childhood Autistic Spectrum Disorder Screening
